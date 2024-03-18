@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Documents\\estudo\\programação\\C#\\testes\\projetoarea\\projetoarea\\projetoarea.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\estudo\\programação\\C#\\testes\\1 - projetoarea\\projetoarea\\projetoarea.csproj",
       "projectName": "projetoarea",
-      "projectPath": "C:\\Users\\User\\Documents\\estudo\\programação\\C#\\testes\\projetoarea\\projetoarea\\projetoarea.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\estudo\\programação\\C#\\testes\\1 - projetoarea\\projetoarea\\projetoarea.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Documents\\estudo\\programação\\C#\\testes\\projetoarea\\projetoarea\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\estudo\\programação\\C#\\testes\\1 - projetoarea\\projetoarea\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

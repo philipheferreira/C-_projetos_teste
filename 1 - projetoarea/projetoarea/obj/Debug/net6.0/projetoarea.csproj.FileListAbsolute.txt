@@ -13,3 +13,18 @@ C:\Users\User\Documents\estudo\programação\C#\testes\projetoarea\projetoarea\o
 C:\Users\User\Documents\estudo\programação\C#\testes\projetoarea\projetoarea\obj\Debug\net6.0\projetoarea.pdb
 C:\Users\User\Documents\estudo\programação\C#\testes\projetoarea\projetoarea\obj\Debug\net6.0\projetoarea.genruntimeconfig.cache
 C:\Users\User\Documents\estudo\programação\C#\testes\projetoarea\projetoarea\obj\Debug\net6.0\ref\projetoarea.dll
+C:\Users\User\Documents\estudo\programação\C#\testes\1 - projetoarea\projetoarea\bin\Debug\net6.0\projetoarea.exe
+C:\Users\User\Documents\estudo\programação\C#\testes\1 - projetoarea\projetoarea\bin\Debug\net6.0\projetoarea.deps.json
+C:\Users\User\Documents\estudo\programação\C#\testes\1 - projetoarea\projetoarea\bin\Debug\net6.0\projetoarea.runtimeconfig.json
+C:\Users\User\Documents\estudo\programação\C#\testes\1 - projetoarea\projetoarea\bin\Debug\net6.0\projetoarea.dll
+C:\Users\User\Documents\estudo\programação\C#\testes\1 - projetoarea\projetoarea\bin\Debug\net6.0\projetoarea.pdb
+C:\Users\User\Documents\estudo\programação\C#\testes\1 - projetoarea\projetoarea\obj\Debug\net6.0\projetoarea.csproj.AssemblyReference.cache
+C:\Users\User\Documents\estudo\programação\C#\testes\1 - projetoarea\projetoarea\obj\Debug\net6.0\projetoarea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\estudo\programação\C#\testes\1 - projetoarea\projetoarea\obj\Debug\net6.0\projetoarea.AssemblyInfoInputs.cache
+C:\Users\User\Documents\estudo\programação\C#\testes\1 - projetoarea\projetoarea\obj\Debug\net6.0\projetoarea.AssemblyInfo.cs
+C:\Users\User\Documents\estudo\programação\C#\testes\1 - projetoarea\projetoarea\obj\Debug\net6.0\projetoarea.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\estudo\programação\C#\testes\1 - projetoarea\projetoarea\obj\Debug\net6.0\projetoarea.dll
+C:\Users\User\Documents\estudo\programação\C#\testes\1 - projetoarea\projetoarea\obj\Debug\net6.0\refint\projetoarea.dll
+C:\Users\User\Documents\estudo\programação\C#\testes\1 - projetoarea\projetoarea\obj\Debug\net6.0\projetoarea.pdb
+C:\Users\User\Documents\estudo\programação\C#\testes\1 - projetoarea\projetoarea\obj\Debug\net6.0\projetoarea.genruntimeconfig.cache
+C:\Users\User\Documents\estudo\programação\C#\testes\1 - projetoarea\projetoarea\obj\Debug\net6.0\ref\projetoarea.dll
