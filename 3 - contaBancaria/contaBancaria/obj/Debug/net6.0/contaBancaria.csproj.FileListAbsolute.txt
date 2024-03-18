@@ -1,0 +1,15 @@
+C:\Users\User\Documents\estudo\programação\C#\testes\3 - contaBancaria\contaBancaria\bin\Debug\net6.0\contaBancaria.exe
+C:\Users\User\Documents\estudo\programação\C#\testes\3 - contaBancaria\contaBancaria\bin\Debug\net6.0\contaBancaria.deps.json
+C:\Users\User\Documents\estudo\programação\C#\testes\3 - contaBancaria\contaBancaria\bin\Debug\net6.0\contaBancaria.runtimeconfig.json
+C:\Users\User\Documents\estudo\programação\C#\testes\3 - contaBancaria\contaBancaria\bin\Debug\net6.0\contaBancaria.dll
+C:\Users\User\Documents\estudo\programação\C#\testes\3 - contaBancaria\contaBancaria\bin\Debug\net6.0\contaBancaria.pdb
+C:\Users\User\Documents\estudo\programação\C#\testes\3 - contaBancaria\contaBancaria\obj\Debug\net6.0\contaBancaria.csproj.AssemblyReference.cache
+C:\Users\User\Documents\estudo\programação\C#\testes\3 - contaBancaria\contaBancaria\obj\Debug\net6.0\contaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\estudo\programação\C#\testes\3 - contaBancaria\contaBancaria\obj\Debug\net6.0\contaBancaria.AssemblyInfoInputs.cache
+C:\Users\User\Documents\estudo\programação\C#\testes\3 - contaBancaria\contaBancaria\obj\Debug\net6.0\contaBancaria.AssemblyInfo.cs
+C:\Users\User\Documents\estudo\programação\C#\testes\3 - contaBancaria\contaBancaria\obj\Debug\net6.0\contaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\estudo\programação\C#\testes\3 - contaBancaria\contaBancaria\obj\Debug\net6.0\contaBancaria.dll
+C:\Users\User\Documents\estudo\programação\C#\testes\3 - contaBancaria\contaBancaria\obj\Debug\net6.0\refint\contaBancaria.dll
+C:\Users\User\Documents\estudo\programação\C#\testes\3 - contaBancaria\contaBancaria\obj\Debug\net6.0\contaBancaria.pdb
+C:\Users\User\Documents\estudo\programação\C#\testes\3 - contaBancaria\contaBancaria\obj\Debug\net6.0\contaBancaria.genruntimeconfig.cache
+C:\Users\User\Documents\estudo\programação\C#\testes\3 - contaBancaria\contaBancaria\obj\Debug\net6.0\ref\contaBancaria.dll
