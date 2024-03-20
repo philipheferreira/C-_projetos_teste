@@ -1,12 +1,10 @@
-﻿
+﻿using calculadora;
 
 class Programa{
 
     static void Main(string[] args){
 
-        int soma, sub, mult, div;
-
-        int valor1 = 20, valor2 = 10;
+        Operacoes operacoes = new Operacoes();
 
         int menu;
 
@@ -24,23 +22,23 @@ class Programa{
             switch (menu){
                 case 1:
 
-                    soma = valor1 + valor2;
-                    Console.WriteLine("A soma das variaveis {0} e {1} é {2}", valor1, valor2, soma);
+                    operacoes.soma = operacoes.valor1 + operacoes.valor2;
+                    Console.WriteLine("A soma das variaveis {0} e {1} é {2}", operacoes.valor1, operacoes.valor2, operacoes.soma);
                     break;
                 case 2:
 
-                    sub = valor1 - valor2;
-                    Console.WriteLine("A subtração das variaveis {0} e {1} é {2}", valor1, valor2, sub);
+                    operacoes.sub = operacoes.valor1 - operacoes.valor2;
+                    Console.WriteLine("A subtração das variaveis {0} e {1} é {2}", operacoes.valor1, operacoes.valor2, operacoes.sub);
                     break;
                 case 3:
 
-                    mult = valor1 * valor2;
-                    Console.WriteLine("A multiplicação das variaveis {0} e {1} é {2}", valor1, valor2, mult);
+                    operacoes.mult = operacoes.valor1 * operacoes.valor2;
+                    Console.WriteLine("A multiplicação das variaveis {0} e {1} é {2}", operacoes.valor1, operacoes.valor2, operacoes.mult);
                     break;
                 case 4:
 
-                    div = valor1 / valor2;
-                    Console.WriteLine("A divisão das variaveis {0} e {1} é {2}", valor1, valor2, div);
+                    operacoes.div = operacoes.valor1 / operacoes.valor2;
+                    Console.WriteLine("A divisão das variaveis {0} e {1} é {2}", operacoes.valor1, operacoes.valor2, operacoes.div);
                     break;
             }
 

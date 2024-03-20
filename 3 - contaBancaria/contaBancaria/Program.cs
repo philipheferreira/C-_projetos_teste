@@ -1,14 +1,13 @@
-﻿
+﻿using contaBancaria;
 
 class Programa{
 
     static void Main(string[] args){
 
-        double saldoConta = 2600.14;
-        string nomeConta = "Philiphe Siqueira Ferreira";
+        Operacoes operacoes = new Operacoes();
 
-        Console.WriteLine("Nome: {0}", nomeConta);
-        Console.WriteLine("Saldo: {0}",saldoConta);
+        Console.WriteLine("Nome: {0}", operacoes.nomeConta);
+        Console.WriteLine("Saldo: {0}", operacoes.saldoConta);
     }
 
 }

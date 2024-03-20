@@ -1,12 +1,10 @@
 ﻿using System;
-
+using projetoarea;
 class Programa{
 
     static void Main(String[] args){
 
-        int triangAlt = 20, triangBase = 10 , triangArea, quadLado = 8, quadArea, retLadoAlt = 5, retLadoBase = 10, retArea;
-
-        double circArea, circRaio = 4;
+        Calculos calculos = new Calculos();
 
         int menu;
 
@@ -24,31 +22,31 @@ class Programa{
 
                 case 1:
 
-                    quadArea = quadLado * 4;
+                    calculos.quadArea = calculos.quadLado * 4;
 
-                    Console.WriteLine("A área do quadrado é {0}", quadArea);
+                    Console.WriteLine("A área do quadrado é {0}", calculos.quadArea);
 
                     break;
                 case 2:
 
-                    retArea = retLadoAlt * retLadoBase;
+                    calculos.retArea = calculos.retLadoAlt * calculos.retLadoBase;
 
-                    Console.WriteLine("A area da altura e base do retangulo é {0}", retArea);
+                    Console.WriteLine("A area da altura e base do retangulo é {0}", calculos.retArea);
 
                     break;
                 case 3:
 
-                    triangArea = triangAlt * triangBase;
+                    calculos.triangArea = calculos.triangAlt * calculos.triangBase;
 
-                    Console.WriteLine("A área do triangulo é {0}", triangArea);
+                    Console.WriteLine("A área do triangulo é {0}", calculos.triangArea);
 
                     break;
 
                 case 4:
 
-                    circArea = circRaio * 3.14;
+                    calculos.circArea = calculos.circRaio * 3.14;
 
-                    Console.WriteLine("A área do circulo é {0} ", circArea);
+                    Console.WriteLine("A área do circulo é {0} ", calculos.circArea);
 
                     break;
 
