@@ -9,5 +9,7 @@ namespace projetoarea{
         public int triangAlt = 20, triangBase = 10, triangArea, quadLado = 8, quadArea, retLadoAlt = 5, retLadoBase = 10, retArea;
 
         public double circArea, circRaio = 4;
+
+        public 
     }
 }

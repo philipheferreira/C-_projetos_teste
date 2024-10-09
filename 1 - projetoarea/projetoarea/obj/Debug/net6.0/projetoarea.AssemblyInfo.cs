@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("projetoarea")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4c6820d398121bfd634ca9be297587520978399")]
 [assembly: System.Reflection.AssemblyProductAttribute("projetoarea")]
 [assembly: System.Reflection.AssemblyTitleAttribute("projetoarea")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
